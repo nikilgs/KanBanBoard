@@ -9,7 +9,6 @@ function App() {
     <div>
   <BoardProvider>
     <Board/>
-
   </BoardProvider>
   
   </div>
