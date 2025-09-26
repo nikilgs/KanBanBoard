@@ -9,7 +9,7 @@ export const initialBoard ={
         done: {id: "done", title:"done", tasks:[]},
     }
 };
-export function boardReducer(state, action){
+export function BoardReducer(state, action){
     switch(action.type){
         case "ADD_TASK":{
          return{
