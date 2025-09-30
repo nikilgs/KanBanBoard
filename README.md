@@ -68,9 +68,6 @@ Drag tasks between columns to update their status.
 
 Drop a task in the trash area to delete it.
 
-📸 Screenshot
-
-(Add a screenshot of your Kanban board UI here)
 
 🌟 Future Improvements
 
